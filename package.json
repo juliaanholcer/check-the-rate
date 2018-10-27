@@ -1,0 +1,43 @@
+{
+  "name": "currency-rates",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.5",
+    "@fortawesome/fontawesome-free-solid": "^5.0.12",
+    "@fortawesome/react-fontawesome": "0.0.18",
+    "bootstrap": "^4.1.0",
+    "material-ui": "^0.20.1",
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-form": "^3.5.5",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.0-rc.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^5.0.0-beta.3",
+    "recompose": "^0.27.0",
+    "redbox-react": "^1.6.0",
+    "redux": "^4.0.0",
+    "redux-form": "^7.3.0",
+    "redux-form-material-ui": "^4.3.4",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.7.0",
+    "jasmine": "^3.1.0",
+    "jasmine-enzyme": "^6.0.0",
+    "redux-mock-store": "^1.5.1"
+  }
+}
